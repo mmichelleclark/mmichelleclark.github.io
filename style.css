@@ -5,26 +5,15 @@
 
 </head>
 
-<body>
-{
-   background-color:#fff2e6;
-     Font-Family:"Arial"
-}
+body style="background-color:#fff2e6;Font-Family:Arial"
 
- .h3
-   {
-      text-align:center
-}
+h3 style="text-align:center;margin-left:30px;"
 
-.#para1
-   {
-      text-align:center;
-}
+#para1 style="text-align:center;i"
 
-.#para2
-   {
-      text-align:center;
-}
+#para2 style="text-align:center;"
+
+
 
 </body>
 </html>
