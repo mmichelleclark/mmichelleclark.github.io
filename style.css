@@ -1,6 +1,6 @@
 body
 {
-    background-color:linen;font-family:Arial;margin:70px;
+    background-color:linen;font-family:Arial;margin:100px;
 }
     
 h3
@@ -19,6 +19,6 @@ h3
   }
 .border
 {
-    border-style:bottom;double
+    border-style:bottom;
 }
     
