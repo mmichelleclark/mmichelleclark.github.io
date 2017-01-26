@@ -4,18 +4,20 @@
 <style>
  
 </head>
-<body>
+<body style=background-color:#FFE4C4;>
  {
-    font-family:Arial; 
-    background-color: #FFE4C4;
+    font-family:Arial;
   }
 
   {
     padding:2cm
 }
-<h3 style>
+
+.h3
   {
-    "text-align:center;strong;"
-  }
+    text-align:center;
+}
+
+
 </body>
 </html>
