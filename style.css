@@ -5,14 +5,25 @@
 
 </head>
 
-body style="background-color:linen; font-family:Arial"
+<body>
+  {
+    "background-color:linen; font-family:Arial"
+}
+    
+<h3>
+{
+ "text-align:center;margin-left:30px;"
+}
 
-h3 style="text-align:center;margin-left:30px;"
 
-#para1 style="text-align:center;i"
+<#para1> 
+{  "text-align:center;i"
+}
 
-#para2 style="text-align:center;"
 
+<#para2>
+{  "text-align:center;"
+}
 
 
 </body>
