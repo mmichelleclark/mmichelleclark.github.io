@@ -4,24 +4,23 @@
 <style>
 {
    background-color:    #fff2e6;
-  font-family:Times;
+  font-family:Arial;
   margin: 2cm
 }
 </head>
 
 <body >
- para1
+ #para1
  .h3
    {
      text-align:center;
 }
-
-strong;
+      strong;
 
 .p
     i
 
-para 2
+#para2
    {
     text-align:left;
    }
