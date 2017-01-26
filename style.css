@@ -2,22 +2,32 @@
 <html>
 <head>
 <style>
- 
+{
+   background-color:    #fff2e6;
+  font-family:Times;
+  margin: 2cm
+}
 </head>
-body 
- {
-  background-color:    #fff2e6;
-  font-family:Arial;
-  }
 
-  {
-    Margin: 2cm
+<body >
+ para1
+ .h3
+   {
+     text-align:center;
 }
 
-.h3
-  {
-    text-align:center;
-}
+strong;
+
+.p
+    i
+
+para 2
+   {
+    text-align:left;
+   }
+.p1
+ strong;
+
 
 
 </body>
