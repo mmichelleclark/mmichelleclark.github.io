@@ -9,25 +9,21 @@
 }
 </head>
 
-<body >
- #para1
- .h3
+<body>
+ h3
    {
-     text-align:center;
+      "text-align:center;strong"
 }
-      strong;
 
-.p
-    i
+#para1
+   {
+      "text-align:center;i"
+}
 
 #para2
    {
-    text-align:left;
-   }
-.p1
- strong;
-
-
+      "text-align:center;i"
+}
 
 </body>
 </html>
