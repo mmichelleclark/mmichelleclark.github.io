@@ -7,26 +7,23 @@
 
 <body>
 {
-   background-color:"#fff2e6;"
-}
- 
-   {
-      Font-Family:"Arial"
+   background-color:#fff2e6;
+     Font-Family:"Arial"
 }
 
- h3
+ .h3
    {
-      "text-align:center;strong;"
+      text-align:center
 }
 
-#para1
+.#para1
    {
-      "text-align:center;i"
+      text-align:center;
 }
 
-#para2
+.#para2
    {
-      "text-align:center;i"
+      text-align:center;
 }
 
 </body>
