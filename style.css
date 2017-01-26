@@ -2,17 +2,21 @@
 <html>
 <head>
 <style>
-{
-   background-color:    #fff2e6;
-  font-family:Arial;
-  margin: 2cm
-}
+
 </head>
 
 <body>
+{
+   background-color:"#fff2e6;"
+}
+ 
+   {
+      Font-Family:"Arial"
+}
+
  h3
    {
-      "text-align:center;strong"
+      "text-align:center;strong;"
 }
 
 #para1
